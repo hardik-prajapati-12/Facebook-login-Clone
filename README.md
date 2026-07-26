@@ -1,24 +1,24 @@
 # Facebook Login Clone
 
-A responsive clone of the Facebook login page built using **HTML5** and **Tailwind CSS**. This project focuses on recreating Facebook's modern UI with a clean, responsive layout and pixel-perfect styling while following best front-end development practices.
+A front-end clone of the Facebook login page built using **HTML5** and **Tailwind CSS**. This project recreates the overall look and feel of Facebook's login interface, with a focus on clean UI design and practicing Tailwind CSS utility classes.
 
 ## ✨ Features
 
-- Responsive design for desktop, tablet, and mobile
-- Clean and modern Facebook-inspired UI
-- Built with utility-first Tailwind CSS
-- Fully responsive layout using Flexbox
-- Optimized spacing, typography, and colors
-- Beginner-friendly project for practicing HTML & Tailwind CSS
+- Facebook-inspired login page UI
+- Clean and structured layout
+- Built with HTML5 and Tailwind CSS
+- Utility-first CSS styling
+- Beginner-friendly front-end project
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - Tailwind CSS
-- CSS Flexbox
 
 ## 🎯 Purpose
 
-This project was created to improve front-end development skills by replicating a real-world website interface and gaining hands-on experience with responsive web design using Tailwind CSS.
+This project was created to practice front-end development by recreating the Facebook login page and improving HTML structure and Tailwind CSS styling skills.
 
-> **Disclaimer:** This project is created for educational purposes only. Facebook and its logo are trademarks of Meta Platforms, Inc. No copyright infringement is intended.
+> **Note:** This project is currently optimized for desktop view and is not yet responsive.
+
+> **Disclaimer:** This project is for educational purposes only. Facebook and its logo are trademarks of Meta Platforms, Inc. No copyright infringement is intended.
